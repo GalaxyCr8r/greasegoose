@@ -1,6 +1,8 @@
 # GreaseGoose BETA
 A FlyCore-Based Full Auto Electric Foam Blaster
 
+<img src="beta.png" width="500">
+
 As of 2/3/2023 these files are provided as-is with no warranty. Contact me before selling or distrubuting modified parts before release.
 
 Work-in-progress manual can be found here: http://greasegoose.gkr8tions.com
