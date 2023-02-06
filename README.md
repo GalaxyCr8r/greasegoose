@@ -33,8 +33,12 @@ Uses the excellent FlyCore platform: https://github.com/oldfieldadamg/OFD_Flycor
  - (6) M3x10mm
  - (2) M3x8mm
  - (2) M3x6mm
- - (2) M3 Threade Heat-Set Inserts
+ - (2) M3 Threaded Heat-Set Inserts
  - Optional Parts:
+   - BCAR Muzzle:
+      - (9) 3x7x3 F683ZZ flanged bearings
+      - (9) 3x14mm pins
+      - Available Amazon, Alibaba, and Moose Mod Shop: https://moose-mod-shop.myshopify.com/products/3-3x7x3-bcar-bearings-and-pins
    - Fidlock:
       - M4 heat-set threaded inserts
       - Fidlock magnets (https://outofdarts.com/products/fidlock-snap-male-bolt-magnet-medium)
