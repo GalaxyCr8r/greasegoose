@@ -33,11 +33,12 @@ Uses the excellent FlyCore platform: https://github.com/oldfieldadamg/OFD_Flycor
  - (6) M3x10mm
  - (2) M3x8mm
  - (2) M3x6mm
+ - (2) M3 Threade Heat-Set Inserts
  - Optional Parts:
    - Fidlock:
       - M4 heat-set threaded inserts
       - Fidlock magnets (https://outofdarts.com/products/fidlock-snap-male-bolt-magnet-medium)
    - Split Receiver: M3x6mm screw
    - NStrike Stock:
-      - (3) M3 Threaded Insert OR 3x M3 Hex Nuts
+      - (3) M3 Threaded Heat-Set Insert OR 3x M3 Hex Nuts
       - (3) M3x18mm
