@@ -1,7 +1,7 @@
 # GreaseGoose BETA
 A FlyCore-Based Full Auto Electric Foam Blaster
 
-<img src="beta.png" width="500">
+<img src="beta.png" width="500">beta-optional
 
 ## Overview
 
@@ -13,9 +13,14 @@ Find me on Discord at GalaxyCr8r#6911 (You may need to join r/nerf, OFD, or Flux
 
 Uses the excellent FlyCore platform: https://github.com/oldfieldadamg/OFD_Flycore_Straight
 
+### Options
+
+<img src="beta-optional.png" width="400">
+Shown with the BCAR and N-Strike-compatible stock attachment point. Not shown: front and rear sling mounts.
+
 ## Bill of Materials
 
- - FTW FlyCore
+ - FTW- or Nightningale-compatible FlyCore
    - (2) 130 motors
    - (1) N20 Pusher Motor of your choice! (300- 3000rpm)
    - (4) m2x5mm motor screws
@@ -31,9 +36,9 @@ Uses the excellent FlyCore platform: https://github.com/oldfieldadamg/OFD_Flycor
  - (1) M3x25mm
  - (2) M3x16mm
  - (6) M3x10mm
- - (2) M3x8mm
- - (2) M3x6mm
- - (2) M3 Threaded Heat-Set Inserts
+ - (2-4) M3x8mm
+ - (2-3) M3x6mm
+ - (3-5) M3 Threaded Heat-Set Inserts
  - Optional Parts:
    - BCAR Muzzle:
       - (9) 3x7x3 F683ZZ flanged bearings
