@@ -1,7 +1,7 @@
 # GreaseGoose BETA
 A FlyCore-Based Full Auto Electric Foam Blaster
 
-<img src="beta.png" width="500">beta-optional
+<img src="beta.png">
 
 ## Overview
 
