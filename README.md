@@ -18,6 +18,9 @@ Uses the excellent FlyCore platform: https://github.com/oldfieldadamg/OFD_Flycor
 <img src="beta-optional.png" width="400">
 Shown with the BCAR and N-Strike-compatible stock attachment point. Not shown: front and rear sling mounts.
 
+<img src="tactigoose.png" width="600">
+Similar, but with the TactiGoose rail system.
+
 ## Bill of Materials
 
  - FTW- or Nightningale-compatible FlyCore
